@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./.github/logo.svg" width="200px">
+  <img alt="Logo" src="https://res.cloudinary.com/haryelramalho/image/upload/v1604416296/logo_slp1xq.svg" width="200px">
 </h1>
 
 <h3 align="center">
