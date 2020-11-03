@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/haryelramalho/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
+  <img alt="Logo" src="./.github/logo.svg" width="200px">
 </h1>
 
 <h3 align="center">
@@ -43,8 +43,6 @@
 </p>
 
 ## 💇🏻‍♂️ About the project
-
-Soon
 
 To see the **api**, click here: [GoBarber Rest API](https://github.com/haryelramalho/gobarber-api)</br>
 To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/haryelramalho/gobarber-mobile)
